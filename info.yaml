@@ -3,8 +3,8 @@ project:
   wokwi_id:     370149998169199617       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Full_Adder_test"      # Project title
   author:       "Zach_Wilson"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  discord:      "stealthwilson"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "adds-bits"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
