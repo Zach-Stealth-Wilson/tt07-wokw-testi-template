@@ -15,8 +15,8 @@ project:
 pinout:
   # Inputs
   ui[0]: "btn1"
-  ui[1]: "and1:B"
-  ui[2]: "and1:A"
+  ui[1]: "and1"
+  ui[2]: "and1"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -24,8 +24,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "btn1:1.l"
-  uo[1]: "and1:OUT"
+  uo[0]: "btn1"
+  uo[1]: "and1"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
