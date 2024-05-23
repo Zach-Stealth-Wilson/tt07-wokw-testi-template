@@ -5,7 +5,7 @@
 // verilator lint_off UNUSEDSIGNAL
 // verilator lint_off PINCONNECTEMPTY
 
-module tt_um_398151379603008513(
+module tt_um_wokwi_398151379603008513(
   input [7:0] io_in,
   output [7:0] io_out
 );
