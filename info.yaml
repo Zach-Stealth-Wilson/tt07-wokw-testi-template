@@ -14,9 +14,9 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "btn1"
-  ui[1]: "and1"
-  ui[2]: "and1"
+  ui[0]: "a"
+  ui[1]: ""
+  ui[2]: ""
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -24,8 +24,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "btn1"
-  uo[1]: "and1"
+  uo[0]: "out"
+  uo[1]: ""
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
@@ -35,7 +35,7 @@ pinout:
 
 
   # Bidirectional pins
-  uio[0]: ""
+  uio[0]: "b"
   uio[1]: ""
   uio[2]: ""
   uio[3]: ""
